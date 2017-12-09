@@ -3,6 +3,6 @@ applications:
   memory: 125M
   instances: 1
   domain: mybluemix.net
-  name: baileysmith2
-  host: baileysmith2
+  name: baileysmith23
+  host: baileysmith23
   disk_quota: 1024M
